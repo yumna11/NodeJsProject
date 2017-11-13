@@ -1,6 +1,16 @@
 /*importing modules*/
+var fs = require('fs');
 require('./yumna');
-require('./family')
+require('./family');
+var path = require('path');
+var website = "www/jaag/com";
+var dir = "C:\\Program Files\\JetBrains\\IntelliJ\index.html ";
+console.log(path.normalize(dir));
+console.log(path.dirname(dir));
+console.log(path.basename(dir));
+console.log(path.extname(dir));
+fs.writeFileSync("food.txt","Food is delicious but hot");
+console.log(fs.readFileSync("food.txt").toString());
 var mobilePhone = require('./mobile');
 /*mobilePhone.bestOne();*/
 /*console.log(mobilePhone.myMobile);*/
