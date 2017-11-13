@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41214c26-8d0c-4e41-b655-29ba925134c4" name="Default" comment="core modules">
+    <list default="true" id="41214c26-8d0c-4e41-b655-29ba925134c4" name="Default" comment="file names">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NodeBeginners/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NodeBeginners/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../NodeBeginners/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NodeBeginners/app.js" afterPath="$PROJECT_DIR$/../NodeBeginners/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/../NodeBeginners/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../NodeBeginners/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
@@ -36,42 +36,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="food.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NodeBeginners/food.txt">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../NodeBeginners/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mobile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NodeBeginners/mobile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yumna.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NodeBeginners/yumna.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="family.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NodeBeginners/family.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-              <folding />
+            <state relative-caret-position="25">
+              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +73,7 @@
         <option value="$PROJECT_DIR$/../NodeBeginners/yumna.js" />
         <option value="$PROJECT_DIR$/../NodeBeginners/family.js" />
         <option value="$PROJECT_DIR$/../NodeBeginners/app.js" />
+        <option value="$PROJECT_DIR$/../NodeBeginners/server.js" />
       </list>
     </option>
   </component>
@@ -174,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
+  <component name="RunManager" selected="Node.js.server.js">
     <configuration name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="$PROJECT_DIR$/../NodeBeginners">
       <profiling log-folder="../../NodeBeginners/../../NodeBeginners" />
       <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
@@ -275,16 +248,19 @@
         <browser start="true" url="http://localhost:8888" />
       </EXTENSION>
     </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/../NodeBeginners" />
     <configuration name="yumna.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="yumna.js" working-dir="$PROJECT_DIR$/../NodeBeginners" />
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.yumna.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.server.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.yumna.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.yumna.js" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +278,7 @@
       <workItem from="1510321384177" duration="6599000" />
       <workItem from="1510412119372" duration="1415000" />
       <workItem from="1510414416808" duration="3660000" />
-      <workItem from="1510515891606" duration="7680000" />
+      <workItem from="1510515891606" duration="9921000" />
     </task>
     <task id="LOCAL-00001" summary="node for beginners">
       <created>1510386339568</created>
@@ -325,11 +301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510577474996</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="file names">
+      <created>1510579423418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510579423418</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21189000" />
+    <option name="totallyTimeSpent" value="23430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,11 +335,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5030581" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.492674" sideWeight="0.4969419" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53663003" sideWeight="0.4969419" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33699635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15749235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09556575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -382,7 +365,8 @@
     <MESSAGE value="node for beginners" />
     <MESSAGE value="object factory" />
     <MESSAGE value="core modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="core modules" />
+    <MESSAGE value="file names" />
+    <option name="LAST_COMMIT_MESSAGE" value="file names" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -474,6 +458,16 @@
         <state relative-caret-position="25">
           <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NodeBeginners/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
