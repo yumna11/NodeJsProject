@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41214c26-8d0c-4e41-b655-29ba925134c4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../NodeBeginners/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../NodeBeginners/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="41214c26-8d0c-4e41-b655-29ba925134c4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../NodeBeginners/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -277,7 +275,7 @@
       <workItem from="1510412119372" duration="1415000" />
       <workItem from="1510414416808" duration="3660000" />
       <workItem from="1510515891606" duration="14646000" />
-      <workItem from="1510595605983" duration="20000" />
+      <workItem from="1510595605983" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="node for beginners">
       <created>1510386339568</created>
@@ -328,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510594344832</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="connect framework">
+      <created>1510595630740</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1510595630740</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28175000" />
+    <option name="totallyTimeSpent" value="28181000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
